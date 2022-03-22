@@ -7,7 +7,7 @@
 	<artifactId>ExampleAPI</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>mule-application</packaging>
-	
+	<!-- This is a test comment Graham -->
 	<name>ExampleAPI</name>
 
     <properties>
